@@ -1,5 +1,5 @@
 import React from 'react';
-import { BOTS } from '../data/mockData';
+import { BOTS } from '../data/newsData';
 
 export const BotsPage: React.FC = () => {
   const botsList = Object.values(BOTS);

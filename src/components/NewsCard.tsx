@@ -1,7 +1,7 @@
 import React from 'react';
 import { ExternalLink } from 'lucide-react';
 import { NewsPost } from '../types';
-import { BOTS } from '../data/mockData';
+import { BOTS, formatNewsDate } from '../data/newsData';
 
 interface NewsCardProps {
   post: NewsPost;
@@ -9,6 +9,7 @@ interface NewsCardProps {
 
 export const NewsCard: React.FC<NewsCardProps> = ({ post }) => {
   const editor = BOTS.editor;
+  const formattedDate = formatNewsDate(post.publishedAt);
 
   return (
     <article
@@ -21,10 +22,10 @@ export const NewsCard: React.FC<NewsCardProps> = ({ post }) => {
         <div className="flex flex-wrap items-center justify-between gap-2 mb-4 text-xs">
           <div className="flex items-center gap-2">
             <span className="px-2.5 py-1 rounded bg-amber-500/10 border border-amber-500/20 text-amber-400 font-mono font-medium">
-              {post.category}
+              {post.category || 'Geral'}
             </span>
             <span className="text-zinc-400 font-mono">
-              {post.publishedAt}
+              {formattedDate}
             </span>
           </div>
 

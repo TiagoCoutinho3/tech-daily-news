@@ -4,9 +4,16 @@ import { Newspaper } from 'lucide-react';
 interface HeaderProps {
   currentTab: 'feed' | 'bots' | 'weekly';
   onSelectTab: (tab: 'feed' | 'bots' | 'weekly') => void;
+  articlesCount?: number;
 }
 
-export const Header: React.FC<HeaderProps> = ({ currentTab, onSelectTab }) => {
+export const Header: React.FC<HeaderProps> = ({ currentTab, onSelectTab, articlesCount = 0 }) => {
+  const currentDateFormatted = new Intl.DateTimeFormat('pt-BR', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric'
+  }).format(new Date());
+
   return (
     <header className="border-b border-zinc-800/80 bg-zinc-950/90 backdrop-blur-md sticky top-0 z-30">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-4">
@@ -25,13 +32,13 @@ export const Header: React.FC<HeaderProps> = ({ currentTab, onSelectTab }) => {
           </div>
 
           <div className="flex items-center gap-3 text-xs font-mono text-zinc-400">
-            <span>Edição Diária #1.428</span>
+            <span className="capitalize">{currentDateFormatted}</span>
             <span className="text-zinc-700">•</span>
-            <span>31 de Agosto de 2026</span>
+            <span className="text-amber-400/90">{articlesCount} {articlesCount === 1 ? 'matéria' : 'matérias'}</span>
           </div>
         </div>
 
-        {/* Minimal navigation */}
+        {/* Navigation */}
         <nav className="flex items-center gap-1 sm:gap-2 pt-3" aria-label="Navegação Principal">
           <button
             id="nav-feed-btn"

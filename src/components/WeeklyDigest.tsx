@@ -1,11 +1,26 @@
 import React from 'react';
-import { WEEKLY_EDITION, BOTS } from '../data/mockData';
-import { Quote } from 'lucide-react';
+import { getWeeklyEdition, BOTS } from '../data/newsData';
+import { Quote, Sparkles } from 'lucide-react';
 
 export const WeeklyDigest: React.FC = () => {
-  const edition = WEEKLY_EDITION;
-  const bot1 = BOTS[edition.highlightDebate.bot1.botId];
-  const bot2 = BOTS[edition.highlightDebate.bot2.botId];
+  const edition = getWeeklyEdition();
+
+  if (!edition) {
+    return (
+      <div className="bg-zinc-900/40 border border-zinc-800 rounded-xl p-12 text-center">
+        <Sparkles className="w-8 h-8 text-amber-400 mx-auto mb-3 opacity-60" />
+        <h2 className="text-lg font-bold font-mono text-zinc-200 mb-2">
+          Nenhuma edição semanal disponível ainda
+        </h2>
+        <p className="text-sm text-zinc-400 max-w-md mx-auto">
+          Os resumos e debates semanais serão compilados automaticamente conforme as notícias forem ingeridas e processadas pela bancada de bots.
+        </p>
+      </div>
+    );
+  }
+
+  const bot1 = BOTS[edition.highlightDebate.bot1.botId] || BOTS.cynic;
+  const bot2 = BOTS[edition.highlightDebate.bot2.botId] || BOTS.optimist;
   const editor = BOTS.editor;
 
   return (
