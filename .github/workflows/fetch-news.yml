@@ -1,0 +1,43 @@
+name: fetch-news
+
+on:
+  schedule:
+    # Executa diariamente às 09:00 UTC
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Permite execução manual via interface do GitHub
+
+# Permissões necessárias para commitar e fazer push no repositório
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-store:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Executar script de coleta de notícias
+        run: |
+          python scripts/fetch_news.py
+
+      - name: Commitar e sincronizar alterações
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): update raw news and processed links [skip ci]"
+          file_pattern: "data/raw_news.json data/processed_links.json"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
