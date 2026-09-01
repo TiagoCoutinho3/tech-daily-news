@@ -2,6 +2,7 @@ import React from 'react';
 import { ExternalLink } from 'lucide-react';
 import { NewsPost } from '../types';
 import { BOTS, formatNewsDate } from '../data/newsData';
+import { motion } from 'motion/react';
 
 interface NewsCardProps {
   post: NewsPost;
@@ -86,17 +87,19 @@ export const NewsCard: React.FC<NewsCardProps> = ({ post }) => {
                 className="p-4 rounded-lg bg-zinc-900/70 border border-zinc-800/80 hover:border-zinc-700/80 transition-colors"
               >
                 <div className="flex items-center gap-2.5 mb-2">
-                  <div
-                    className="w-7 h-7 rounded-md flex items-center justify-center font-mono text-xs font-bold shrink-0"
+                  <motion.img
+                    src={`https://api.dicebear.com/10.x/voxel-bot/svg?seed=${bot.avatarSeed}`}
+                    alt={bot.name}
+                    className="w-7 h-7 rounded-md shrink-0 border"
                     style={{
-                      backgroundColor: `${bot.accentColor}18`,
-                      borderColor: `${bot.accentColor}40`,
-                      color: bot.accentColor,
-                      borderWidth: '1px'
+                      borderColor: `${bot.accentColor}40`
                     }}
-                  >
-                    {bot.name.substring(0, 2).toUpperCase()}
-                  </div>
+                    initial={{ scale: 0.8, opacity: 0 }}
+                    animate={{ scale: 1, opacity: 1 }}
+                    transition={{ duration: 0.3 }}
+                    whileHover={{ scale: 1.1, rotate: [0, -5, 5, 0] }}
+                    whileTap={{ scale: 0.95 }}
+                  />
 
                   <div className="flex items-center gap-2 flex-wrap">
                     <span className="text-sm font-semibold text-zinc-200">

@@ -1,6 +1,7 @@
 import React from 'react';
 import { getWeeklyEdition, BOTS } from '../data/newsData';
 import { Quote, Sparkles } from 'lucide-react';
+import { motion } from 'motion/react';
 
 export const WeeklyDigest: React.FC = () => {
   const edition = getWeeklyEdition();
@@ -88,15 +89,19 @@ export const WeeklyDigest: React.FC = () => {
                 style={{ borderColor: `${bot1.accentColor}30` }}
               >
                 <div className="flex items-center gap-2 mb-3">
-                  <div
-                    className="w-6 h-6 rounded flex items-center justify-center font-mono text-xs font-bold"
+                  <motion.img
+                    src={`https://api.dicebear.com/10.x/voxel-bot/svg?seed=${bot1.avatarSeed}`}
+                    alt={bot1.name}
+                    className="w-6 h-6 rounded shrink-0 border"
                     style={{
-                      backgroundColor: `${bot1.accentColor}20`,
-                      color: bot1.accentColor
+                      borderColor: `${bot1.accentColor}40`
                     }}
-                  >
-                    {bot1.name.substring(0, 2).toUpperCase()}
-                  </div>
+                    initial={{ scale: 0.8, opacity: 0 }}
+                    animate={{ scale: 1, opacity: 1 }}
+                    transition={{ duration: 0.3 }}
+                    whileHover={{ scale: 1.1, rotate: [0, -5, 5, 0] }}
+                    whileTap={{ scale: 0.95 }}
+                  />
                   <span className="text-sm font-semibold text-zinc-200">{bot1.name}</span>
                   <span
                     className="text-[11px] font-mono px-2 py-0.5 rounded-full"
@@ -121,15 +126,19 @@ export const WeeklyDigest: React.FC = () => {
                 style={{ borderColor: `${bot2.accentColor}30` }}
               >
                 <div className="flex items-center gap-2 mb-3">
-                  <div
-                    className="w-6 h-6 rounded flex items-center justify-center font-mono text-xs font-bold"
+                  <motion.img
+                    src={`https://api.dicebear.com/10.x/voxel-bot/svg?seed=${bot2.avatarSeed}`}
+                    alt={bot2.name}
+                    className="w-6 h-6 rounded shrink-0 border"
                     style={{
-                      backgroundColor: `${bot2.accentColor}20`,
-                      color: bot2.accentColor
+                      borderColor: `${bot2.accentColor}40`
                     }}
-                  >
-                    {bot2.name.substring(0, 2).toUpperCase()}
-                  </div>
+                    initial={{ scale: 0.8, opacity: 0 }}
+                    animate={{ scale: 1, opacity: 1 }}
+                    transition={{ duration: 0.3 }}
+                    whileHover={{ scale: 1.1, rotate: [0, -5, 5, 0] }}
+                    whileTap={{ scale: 0.95 }}
+                  />
                   <span className="text-sm font-semibold text-zinc-200">{bot2.name}</span>
                   <span
                     className="text-[11px] font-mono px-2 py-0.5 rounded-full"

@@ -1,5 +1,6 @@
 import React from 'react';
 import { BOTS } from '../data/newsData';
+import { motion } from 'motion/react';
 
 export const BotsPage: React.FC = () => {
   const botsList = Object.values(BOTS);
@@ -24,16 +25,19 @@ export const BotsPage: React.FC = () => {
           >
             <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-4">
               <div className="flex items-start gap-4">
-                <div
-                  className="w-12 h-12 rounded-lg flex items-center justify-center font-mono text-base font-bold shrink-0 border"
+                <motion.img
+                  src={`https://api.dicebear.com/10.x/voxel-bot/svg?seed=${bot.avatarSeed}`}
+                  alt={bot.name}
+                  className="w-12 h-12 rounded-lg shrink-0 border"
                   style={{
-                    backgroundColor: `${bot.accentColor}18`,
-                    borderColor: `${bot.accentColor}40`,
-                    color: bot.accentColor
+                    borderColor: `${bot.accentColor}40`
                   }}
-                >
-                  {bot.name.substring(0, 2).toUpperCase()}
-                </div>
+                  initial={{ scale: 0.8, opacity: 0 }}
+                  animate={{ scale: 1, opacity: 1 }}
+                  transition={{ duration: 0.3 }}
+                  whileHover={{ scale: 1.1, rotate: [0, -5, 5, 0] }}
+                  whileTap={{ scale: 0.95 }}
+                />
 
                 <div>
                   <div className="flex items-center gap-2.5 flex-wrap mb-1">
