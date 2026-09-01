@@ -1,65 +1,74 @@
 [
   {
-    "id": "2b3d5e5320644439",
-    "titulo": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-    "resumo_original": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
+    "id": "793ab0bba86b4949",
+    "titulo": "If space data centers feel far-fetched, why not interstellar travel?",
+    "resumo_original": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+    "data_publicacao": "2026-09-01T10:00:00+00:00",
+    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
+  },
+  {
+    "id": "8ad1fa4dc098ab5b",
+    "titulo": "Magna increases bet on battery swapping in India with $35M for Yuma",
+    "resumo_original": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+    "data_publicacao": "2026-09-01T05:00:00+00:00",
+    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
+  },
+  {
+    "id": "d9ea2eef2e367949",
+    "titulo": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
+    "resumo_original": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-    "data_publicacao": "2026-08-31T20:02:16+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
+    "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+    "data_publicacao": "2026-09-01T11:00:35+00:00",
+    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
   },
   {
-    "id": "70e80aad42945067",
-    "titulo": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
-    "resumo_original": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
+    "id": "471cb93bdafbee22",
+    "titulo": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+    "resumo_original": "\"We could really be facing the great filter.\"",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-    "data_publicacao": "2026-08-31T18:39:25+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
+    "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+    "data_publicacao": "2026-09-01T10:00:33+00:00",
+    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
   },
   {
-    "id": "c61ab77f95204a2a",
-    "titulo": "The Google TV Streamer now costs $50 more",
-    "resumo_original": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new […]",
+    "id": "b1f01d4d203bee98",
+    "titulo": "Tim Cook’s legacy isn’t just phones, it’s politics",
+    "resumo_original": "As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat in the US. During his 15 years as CEO, Cook steered Apple through relations with both Chinese President Xi Jinping and US […]",
     "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-    "data_publicacao": "2026-08-31T22:32:51+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
+    "link": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi",
+    "data_publicacao": "2026-09-01T13:51:02+00:00",
+    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
   },
   {
-    "id": "79bb64d61f007173",
-    "titulo": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
-    "resumo_original": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an issue with projectors - by placing two separate physical apertures (irises) along […]",
+    "id": "c7ff8577b1fe5444",
+    "titulo": "John Ternus takes over as Apple’s new CEO",
+    "resumo_original": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How will we look back on Cook’s legacy, and what will Apple look like under the leadership of Ternus and […]",
     "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
-    "data_publicacao": "2026-08-31T22:00:00+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
+    "link": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+    "data_publicacao": "2026-09-01T13:28:43+00:00",
+    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
   },
   {
-    "id": "b30b0b40df0b4cb3",
-    "titulo": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
-    "resumo_original": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" According to the […]",
+    "id": "975675e72e48e11d",
+    "titulo": "Florida blocks Flock cams on state highways",
+    "resumo_original": "Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF. In a memo on Monday, Florida's Department of Transportation says it's revoking permits for all license plate readers, adding that they must be removed from state highways within 30 days. […]",
     "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-    "data_publicacao": "2026-08-31T21:41:42+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
+    "link": "https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways",
+    "data_publicacao": "2026-09-01T13:17:36+00:00",
+    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
   },
   {
-    "id": "1b5f92c33f0ed208",
-    "titulo": "I went to the loneliest baseball game on Apple Vision Pro",
-    "resumo_original": "This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple and Major League Baseball chose a classic match-up of the Boston Red Sox and the New York Yankees […]",
+    "id": "7115b649f218ab58",
+    "titulo": "Get ready for a really busy month of smartphones",
+    "resumo_original": "We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones a week after that. And that's only the beginning of what promises to be […]",
     "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
-    "data_publicacao": "2026-08-31T21:18:27+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
-  },
-  {
-    "id": "0d0e09d293d08a3b",
-    "titulo": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
-    "resumo_original": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming monitor features an QD-OLED panel for deep, immersive black levels, and quantum dots for full […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
-    "data_publicacao": "2026-08-31T19:31:59+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
+    "link": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
+    "data_publicacao": "2026-09-01T13:00:00+00:00",
+    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
   }
 ]
