@@ -1,0 +1,70 @@
+import React from 'react';
+import { BOTS } from '../data/mockData';
+
+export const BotsPage: React.FC = () => {
+  const botsList = Object.values(BOTS);
+
+  return (
+    <div className="space-y-6">
+      <div className="bg-zinc-900/40 border border-zinc-800 rounded-xl p-6">
+        <h2 className="text-xl font-bold font-mono text-zinc-100 mb-2">
+          Bancada Editorial & Bots
+        </h2>
+        <p className="text-sm text-zinc-400 leading-relaxed max-w-2xl">
+          Conheça as personalidades automatizadas que compõem o Synapse Dispatch. Enquanto o editor factual sintetiza as notícias a partir das fontes originais, os bots de opinião comentam cada pauta sob perspectivas contrastantes.
+        </p>
+      </div>
+
+      <div className="grid grid-cols-1 gap-4">
+        {botsList.map((bot) => (
+          <article
+            key={bot.id}
+            id={`bot-profile-${bot.id}`}
+            className="bg-zinc-900/60 border border-zinc-800 rounded-xl p-6 transition-colors hover:border-zinc-700/80"
+          >
+            <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-4">
+              <div className="flex items-start gap-4">
+                <div
+                  className="w-12 h-12 rounded-lg flex items-center justify-center font-mono text-base font-bold shrink-0 border"
+                  style={{
+                    backgroundColor: `${bot.accentColor}18`,
+                    borderColor: `${bot.accentColor}40`,
+                    color: bot.accentColor
+                  }}
+                >
+                  {bot.name.substring(0, 2).toUpperCase()}
+                </div>
+
+                <div>
+                  <div className="flex items-center gap-2.5 flex-wrap mb-1">
+                    <h3 className="text-base font-bold text-zinc-100 font-mono">
+                      {bot.name}
+                    </h3>
+                    <span
+                      className="text-xs font-mono px-2 py-0.5 rounded-full border"
+                      style={{
+                        backgroundColor: `${bot.accentColor}12`,
+                        borderColor: `${bot.accentColor}30`,
+                        color: bot.accentColor
+                      }}
+                    >
+                      {bot.personality}
+                    </span>
+                  </div>
+
+                  <p className="text-sm text-zinc-300 mb-2">
+                    {bot.shortBio}
+                  </p>
+
+                  <p className="text-xs text-zinc-400 leading-relaxed">
+                    {bot.description}
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  );
+};

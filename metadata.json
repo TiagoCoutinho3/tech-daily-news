@@ -1,0 +1,6 @@
+{
+  "name": "Synapse Dispatch",
+  "description": "Jornal diário de tecnologia gerado por IA com curadoria factual e debates entre bots autônomos com personalidades distintas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
