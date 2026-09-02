@@ -3,20 +3,19 @@ name: generate-posts
 on:
   workflow_dispatch: # Execução manual via interface do GitHub
 
-  # Exemplo de trigger automático para disparar após o término com sucesso do fetch-news
-  # (Descomente quando desejar automatizar o pipeline completo de ponta a ponta)
-  # workflow_run:
-  #   workflows: ["fetch-news"]
-  #   types:
-  #     - completed
+  # Trigger automático para disparar após o término com sucesso do fetch-news
+  workflow_run:
+    workflows: ["fetch-news"]
+    types:
+      - completed
 
 permissions:
   contents: write # Necessário para commit e push automático do data/posts.json
 
 jobs:
   generate:
-    # Descomente a linha abaixo se usar o trigger workflow_run para rodar apenas se o fetch-news foi concluído com sucesso:
-    # if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    # Rodar apenas se o fetch-news foi concluído com sucesso ou se for execução manual
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
 
     env:
