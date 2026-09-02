@@ -23,7 +23,7 @@ POSTS_FILE = os.path.join(DATA_DIR, "posts.json")
 
 # Configurações do Ollama (executado localmente no runner do Actions)
 OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
-OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:1.5b")
+OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "batiai/gemma4-e4b:q4")
 REQUEST_TIMEOUT = int(os.getenv("OLLAMA_TIMEOUT", "120"))
 
 
