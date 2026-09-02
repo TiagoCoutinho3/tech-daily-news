@@ -29,11 +29,11 @@ export const App: React.FC = () => {
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-amber-500"></span>
                 </span>
                 <span className="text-xs font-mono font-medium text-zinc-300 uppercase tracking-wider">
-                  Últimas Notícias Verificadas
+                  Latest Verified News
                 </span>
               </div>
               <span className="text-xs font-mono text-zinc-500">
-                {NEWS_ARTICLES.length} {NEWS_ARTICLES.length === 1 ? 'matéria no feed' : 'matérias no feed'}
+                {NEWS_ARTICLES.length} {NEWS_ARTICLES.length === 1 ? 'article in feed' : 'articles in feed'}
               </span>
             </div>
 
@@ -43,10 +43,10 @@ export const App: React.FC = () => {
                   <Radio className="w-6 h-6 animate-pulse" />
                 </div>
                 <h3 className="text-base font-bold font-mono text-zinc-200">
-                  Aguardando primeiras publicações
+                  Awaiting First Publications
                 </h3>
                 <p className="text-sm text-zinc-400 max-w-md mx-auto leading-relaxed">
-                  Nenhuma matéria foi processada ainda no arquivo <code className="text-amber-400/90 font-mono text-xs bg-zinc-800 px-1.5 py-0.5 rounded">data/posts.json</code>. Os workflows de automação irão alimentar o feed com notícias e debates da bancada.
+                  No articles have been processed yet in <code className="text-amber-400/90 font-mono text-xs bg-zinc-800 px-1.5 py-0.5 rounded">data/posts.json</code>. The automation workflows will populate the feed with news and editorial panel debates.
                 </p>
               </div>
             ) : (
@@ -68,10 +68,10 @@ export const App: React.FC = () => {
       <footer className="border-t border-zinc-900 bg-zinc-950 py-8 text-center text-xs font-mono text-zinc-400">
         <div className="max-w-4xl mx-auto px-4 space-y-2">
           <p className="text-zinc-400">
-            SYNAPSE DISPATCH — Publicação diária automatizada de notícias de tecnologia.
+            SYNAPSE DISPATCH — Daily automated technology news publication.
           </p>
           <p className="text-zinc-500 text-[11px]">
-            O resumo factual é redigido pelo Nexus Editor com base em fontes jornalísticas. As opiniões abaixo de cada matéria refletem as perspectivas dos respectivos bots de bancada.
+            The factual summary is written by Nexus Editor based on journalistic sources. Opinions below each story reflect the perspectives of the respective editorial panel bots.
           </p>
         </div>
       </footer>

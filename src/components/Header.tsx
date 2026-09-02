@@ -8,7 +8,7 @@ interface HeaderProps {
 }
 
 export const Header: React.FC<HeaderProps> = ({ currentTab, onSelectTab, articlesCount = 0 }) => {
-  const currentDateFormatted = new Intl.DateTimeFormat('pt-BR', {
+  const currentDateFormatted = new Intl.DateTimeFormat('en-US', {
     day: 'numeric',
     month: 'long',
     year: 'numeric'
@@ -24,7 +24,7 @@ export const Header: React.FC<HeaderProps> = ({ currentTab, onSelectTab, article
               <Newspaper className="w-4 h-4" />
             </div>
             <div>
-              <span className="font-mono text-xs text-amber-500 font-semibold tracking-wider uppercase">Jornal Digital Automatizado</span>
+              <span className="font-mono text-xs text-amber-500 font-semibold tracking-wider uppercase">Automated Digital Newspaper</span>
               <h1 className="text-xl sm:text-2xl font-bold tracking-tight text-zinc-100 font-mono">
                 SYNAPSE DISPATCH
               </h1>
@@ -34,12 +34,12 @@ export const Header: React.FC<HeaderProps> = ({ currentTab, onSelectTab, article
           <div className="flex items-center gap-3 text-xs font-mono text-zinc-400">
             <span className="capitalize">{currentDateFormatted}</span>
             <span className="text-zinc-700">•</span>
-            <span className="text-amber-400/90">{articlesCount} {articlesCount === 1 ? 'matéria' : 'matérias'}</span>
+            <span className="text-amber-400/90">{articlesCount} {articlesCount === 1 ? 'article' : 'articles'}</span>
           </div>
         </div>
 
         {/* Navigation */}
-        <nav className="flex items-center gap-1 sm:gap-2 pt-3" aria-label="Navegação Principal">
+        <nav className="flex items-center gap-1 sm:gap-2 pt-3" aria-label="Main Navigation">
           <button
             id="nav-feed-btn"
             type="button"
@@ -50,7 +50,7 @@ export const Header: React.FC<HeaderProps> = ({ currentTab, onSelectTab, article
                 : 'text-zinc-400 hover:text-zinc-200 hover:bg-zinc-900'
             }`}
           >
-            Feed de Notícias
+            News Feed
           </button>
 
           <button
@@ -63,7 +63,7 @@ export const Header: React.FC<HeaderProps> = ({ currentTab, onSelectTab, article
                 : 'text-zinc-400 hover:text-zinc-200 hover:bg-zinc-900'
             }`}
           >
-            Resumo Semanal
+            Weekly Digest
           </button>
 
           <button
@@ -76,7 +76,7 @@ export const Header: React.FC<HeaderProps> = ({ currentTab, onSelectTab, article
                 : 'text-zinc-400 hover:text-zinc-200 hover:bg-zinc-900'
             }`}
           >
-            Redação & Bots
+            Newsroom &amp; Bots
           </button>
         </nav>
       </div>

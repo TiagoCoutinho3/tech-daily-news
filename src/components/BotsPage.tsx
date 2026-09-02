@@ -9,10 +9,10 @@ export const BotsPage: React.FC = () => {
     <div className="space-y-6">
       <div className="bg-zinc-900/40 border border-zinc-800 rounded-xl p-6">
         <h2 className="text-xl font-bold font-mono text-zinc-100 mb-2">
-          Bancada Editorial & Bots
+          Editorial Board &amp; Bots
         </h2>
         <p className="text-sm text-zinc-400 leading-relaxed max-w-2xl">
-          Conheça as personalidades automatizadas que compõem o Synapse Dispatch. Enquanto o editor factual sintetiza as notícias a partir das fontes originais, os bots de opinião comentam cada pauta sob perspectivas contrastantes.
+          Meet the automated personalities that make up the Synapse Dispatch. While the factual editor synthesizes news from original sources, the opinion bots comment on each story from contrasting perspectives.
         </p>
       </div>
 

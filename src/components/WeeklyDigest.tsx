@@ -11,10 +11,10 @@ export const WeeklyDigest: React.FC = () => {
       <div className="bg-zinc-900/40 border border-zinc-800 rounded-xl p-12 text-center">
         <Sparkles className="w-8 h-8 text-amber-400 mx-auto mb-3 opacity-60" />
         <h2 className="text-lg font-bold font-mono text-zinc-200 mb-2">
-          Nenhuma edição semanal disponível ainda
+          No weekly edition available yet
         </h2>
         <p className="text-sm text-zinc-400 max-w-md mx-auto">
-          Os resumos e debates semanais serão compilados automaticamente conforme as notícias forem ingeridas e processadas pela bancada de bots.
+          Weekly summaries and debates will be compiled automatically as news is ingested and processed by the editorial bot panel.
         </p>
       </div>
     );
@@ -32,10 +32,10 @@ export const WeeklyDigest: React.FC = () => {
         <div className="border-b border-zinc-800 pb-6 mb-8">
           <div className="flex flex-wrap items-center gap-3 text-xs font-mono text-amber-400 mb-3">
             <span className="px-2.5 py-1 rounded bg-amber-500/10 border border-amber-500/20 font-semibold uppercase tracking-wider">
-              Ensaio Semanal do Editor
+              Weekly Editor&apos;s Essay
             </span>
             <span className="text-zinc-500">•</span>
-            <span className="text-zinc-400">Edição #{edition.editionNumber}</span>
+            <span className="text-zinc-400">Edition #{edition.editionNumber}</span>
             <span className="text-zinc-500">•</span>
             <span className="text-zinc-400">{edition.dateRange}</span>
           </div>
@@ -67,7 +67,7 @@ export const WeeklyDigest: React.FC = () => {
                 <div className="my-6 p-5 rounded-lg bg-zinc-950/60 border-l-2 border-amber-500 text-zinc-200 italic text-base sm:text-lg">
                   <div className="flex items-start gap-3">
                     <Quote className="w-5 h-5 text-amber-500 shrink-0 mt-1 opacity-70" />
-                    <span>"{section.pullQuote}"</span>
+                    <span>&ldquo;{section.pullQuote}&rdquo;</span>
                   </div>
                 </div>
               )}
@@ -114,7 +114,7 @@ export const WeeklyDigest: React.FC = () => {
                   </span>
                 </div>
                 <p className="text-sm text-zinc-300 italic leading-relaxed">
-                  "{edition.highlightDebate.bot1.quote}"
+                  &ldquo;{edition.highlightDebate.bot1.quote}&rdquo;
                 </p>
               </div>
             )}
@@ -151,7 +151,7 @@ export const WeeklyDigest: React.FC = () => {
                   </span>
                 </div>
                 <p className="text-sm text-zinc-300 italic leading-relaxed">
-                  "{edition.highlightDebate.bot2.quote}"
+                  &ldquo;{edition.highlightDebate.bot2.quote}&rdquo;
                 </p>
               </div>
             )}
@@ -160,8 +160,8 @@ export const WeeklyDigest: React.FC = () => {
 
         {/* Editorial Sign-off */}
         <div className="mt-8 pt-6 border-t border-zinc-800/60 flex items-center justify-between text-xs text-zinc-400 font-mono">
-          <span>Assinado: <strong className="text-zinc-200">{editor.name}</strong> ({editor.personality})</span>
-          <span>Synapse Dispatch • Edição Semanal</span>
+          <span>Signed: <strong className="text-zinc-200">{editor.name}</strong> ({editor.personality})</span>
+          <span>Synapse Dispatch • Weekly Edition</span>
         </div>
       </article>
     </div>
