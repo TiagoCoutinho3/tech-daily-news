@@ -1,65 +1,74 @@
 [
   {
-    "id": "2b3d5e5320644439",
-    "titulo": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-    "resumo_original": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
+    "id": "17ca24abf4f7ec86",
+    "titulo": "Adobe is making its tools available in Slack",
+    "resumo_original": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+    "data_publicacao": "2026-09-02T13:09:27+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
+  },
+  {
+    "id": "2fcc34ebe95ddbb5",
+    "titulo": "Uber is laying off 10% of staff, or 3,300 people",
+    "resumo_original": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ride-sharing, delivery, and robotaxi divisions.",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+    "data_publicacao": "2026-09-02T12:14:35+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
+  },
+  {
+    "id": "e6bc571c24cbf34d",
+    "titulo": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "resumo_original": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "data_publicacao": "2026-09-02T12:09:42+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
+  },
+  {
+    "id": "ffc449473df13c9b",
+    "titulo": "Larry Page’s flying car company Pivotal loses its CEO",
+    "resumo_original": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+    "data_publicacao": "2026-09-01T23:59:59+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
+  },
+  {
+    "id": "9834c85b11e8a9ff",
+    "titulo": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+    "resumo_original": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+    "data_publicacao": "2026-09-01T23:00:00+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
+  },
+  {
+    "id": "2fb858de13c3b735",
+    "titulo": "The Army just used a 20-kilowatt laser to take out three drones",
+    "resumo_original": "The Army says its laser system can track and destroy hostile drones.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-    "data_publicacao": "2026-08-31T20:02:16+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
+    "link": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
+    "data_publicacao": "2026-09-02T13:04:59+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
   },
   {
-    "id": "70e80aad42945067",
-    "titulo": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
-    "resumo_original": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
+    "id": "6b6a42a0ad961e13",
+    "titulo": "Is Russia's rival to Starlink failing? Here's what we know.",
+    "resumo_original": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-    "data_publicacao": "2026-08-31T18:39:25+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
+    "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+    "data_publicacao": "2026-09-02T11:15:23+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
   },
   {
-    "id": "c61ab77f95204a2a",
-    "titulo": "The Google TV Streamer now costs $50 more",
-    "resumo_original": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-    "data_publicacao": "2026-08-31T22:32:51+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
-  },
-  {
-    "id": "79bb64d61f007173",
-    "titulo": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
-    "resumo_original": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an issue with projectors - by placing two separate physical apertures (irises) along […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
-    "data_publicacao": "2026-08-31T22:00:00+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
-  },
-  {
-    "id": "b30b0b40df0b4cb3",
-    "titulo": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
-    "resumo_original": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" According to the […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-    "data_publicacao": "2026-08-31T21:41:42+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
-  },
-  {
-    "id": "1b5f92c33f0ed208",
-    "titulo": "I went to the loneliest baseball game on Apple Vision Pro",
-    "resumo_original": "This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple and Major League Baseball chose a classic match-up of the Boston Red Sox and the New York Yankees […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
-    "data_publicacao": "2026-08-31T21:18:27+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
-  },
-  {
-    "id": "0d0e09d293d08a3b",
-    "titulo": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
-    "resumo_original": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming monitor features an QD-OLED panel for deep, immersive black levels, and quantum dots for full […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
-    "data_publicacao": "2026-08-31T19:31:59+00:00",
-    "data_coleta": "2026-09-01T04:02:08.209396+00:00"
+    "id": "b8721641630cb082",
+    "titulo": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+    "resumo_original": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+    "fonte": "Ars Technica",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "data_publicacao": "2026-09-02T11:00:43+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
   }
 ]
