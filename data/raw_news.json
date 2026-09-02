@@ -1,74 +1,74 @@
 [
   {
-    "id": "793ab0bba86b4949",
-    "titulo": "If space data centers feel far-fetched, why not interstellar travel?",
-    "resumo_original": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+    "id": "17ca24abf4f7ec86",
+    "titulo": "Adobe is making its tools available in Slack",
+    "resumo_original": "Users will be able to access Express, Premiere, and Acrobat in Slack",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
-    "data_publicacao": "2026-09-01T10:00:00+00:00",
-    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
+    "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+    "data_publicacao": "2026-09-02T13:09:27+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
   },
   {
-    "id": "8ad1fa4dc098ab5b",
-    "titulo": "Magna increases bet on battery swapping in India with $35M for Yuma",
-    "resumo_original": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+    "id": "2fcc34ebe95ddbb5",
+    "titulo": "Uber is laying off 10% of staff, or 3,300 people",
+    "resumo_original": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ride-sharing, delivery, and robotaxi divisions.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
-    "data_publicacao": "2026-09-01T05:00:00+00:00",
-    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
+    "link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+    "data_publicacao": "2026-09-02T12:14:35+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
   },
   {
-    "id": "d9ea2eef2e367949",
-    "titulo": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
-    "resumo_original": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters.",
+    "id": "e6bc571c24cbf34d",
+    "titulo": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "resumo_original": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "data_publicacao": "2026-09-02T12:09:42+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
+  },
+  {
+    "id": "ffc449473df13c9b",
+    "titulo": "Larry Page’s flying car company Pivotal loses its CEO",
+    "resumo_original": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+    "data_publicacao": "2026-09-01T23:59:59+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
+  },
+  {
+    "id": "9834c85b11e8a9ff",
+    "titulo": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+    "resumo_original": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+    "fonte": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+    "data_publicacao": "2026-09-01T23:00:00+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
+  },
+  {
+    "id": "2fb858de13c3b735",
+    "titulo": "The Army just used a 20-kilowatt laser to take out three drones",
+    "resumo_original": "The Army says its laser system can track and destroy hostile drones.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
-    "data_publicacao": "2026-09-01T11:00:35+00:00",
-    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
+    "link": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
+    "data_publicacao": "2026-09-02T13:04:59+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
   },
   {
-    "id": "471cb93bdafbee22",
-    "titulo": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
-    "resumo_original": "\"We could really be facing the great filter.\"",
+    "id": "6b6a42a0ad961e13",
+    "titulo": "Is Russia's rival to Starlink failing? Here's what we know.",
+    "resumo_original": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
-    "data_publicacao": "2026-09-01T10:00:33+00:00",
-    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
+    "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+    "data_publicacao": "2026-09-02T11:15:23+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
   },
   {
-    "id": "b1f01d4d203bee98",
-    "titulo": "Tim Cook’s legacy isn’t just phones, it’s politics",
-    "resumo_original": "As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat in the US. During his 15 years as CEO, Cook steered Apple through relations with both Chinese President Xi Jinping and US […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi",
-    "data_publicacao": "2026-09-01T13:51:02+00:00",
-    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
-  },
-  {
-    "id": "c7ff8577b1fe5444",
-    "titulo": "John Ternus takes over as Apple’s new CEO",
-    "resumo_original": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How will we look back on Cook’s legacy, and what will Apple look like under the leadership of Ternus and […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-    "data_publicacao": "2026-09-01T13:28:43+00:00",
-    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
-  },
-  {
-    "id": "975675e72e48e11d",
-    "titulo": "Florida blocks Flock cams on state highways",
-    "resumo_original": "Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF. In a memo on Monday, Florida's Department of Transportation says it's revoking permits for all license plate readers, adding that they must be removed from state highways within 30 days. […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways",
-    "data_publicacao": "2026-09-01T13:17:36+00:00",
-    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
-  },
-  {
-    "id": "7115b649f218ab58",
-    "titulo": "Get ready for a really busy month of smartphones",
-    "resumo_original": "We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones a week after that. And that's only the beginning of what promises to be […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
-    "data_publicacao": "2026-09-01T13:00:00+00:00",
-    "data_coleta": "2026-09-01T13:53:12.762073+00:00"
+    "id": "b8721641630cb082",
+    "titulo": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+    "resumo_original": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+    "fonte": "Ars Technica",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "data_publicacao": "2026-09-02T11:00:43+00:00",
+    "data_coleta": "2026-09-02T13:11:30.027021+00:00"
   }
 ]
