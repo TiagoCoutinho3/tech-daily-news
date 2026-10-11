@@ -1,74 +1,74 @@
 [
   {
-    "id": "a0f6e38f65e9c89b",
-    "titulo": "Here are the top AI agents that can live in your text messages",
-    "resumo_original": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "id": "9b47ec7a9275db8a",
+    "titulo": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+    "resumo_original": "This Battlefield 200 startup has developed blood-purification tech to save children",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "data_publicacao": "2026-10-10T14:00:00+00:00",
-    "data_coleta": "2026-10-10T14:59:39.378268+00:00"
+    "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+    "data_publicacao": "2026-10-11T15:00:00+00:00",
+    "data_coleta": "2026-10-11T15:18:10.855730+00:00"
   },
   {
-    "id": "f6a3c46c4711e0be",
-    "titulo": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "resumo_original": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+    "id": "d2961aeed9f54c6f",
+    "titulo": "What to know about the landmark Warner Bros. Discovery sale",
+    "resumo_original": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-    "data_publicacao": "2026-10-10T03:10:06+00:00",
-    "data_coleta": "2026-10-10T14:59:39.378268+00:00"
+    "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+    "data_publicacao": "2026-10-11T14:15:00+00:00",
+    "data_coleta": "2026-10-11T15:18:10.855730+00:00"
   },
   {
-    "id": "6fafcbf095655c1f",
-    "titulo": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "resumo_original": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "id": "27abcf7051e177f2",
+    "titulo": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "resumo_original": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "data_publicacao": "2026-10-10T00:18:32+00:00",
-    "data_coleta": "2026-10-10T14:59:39.378268+00:00"
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "data_publicacao": "2026-10-11T14:00:00+00:00",
+    "data_coleta": "2026-10-11T15:18:10.855730+00:00"
   },
   {
-    "id": "6f1466c2638ab0d5",
-    "titulo": "Long live the mechanical keyboard",
-    "resumo_original": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+    "id": "13ca25f147a7a5de",
+    "titulo": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "resumo_original": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-    "data_publicacao": "2026-10-09T22:08:24+00:00",
-    "data_coleta": "2026-10-10T14:59:39.378268+00:00"
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "data_publicacao": "2026-10-10T21:47:51+00:00",
+    "data_coleta": "2026-10-11T15:18:10.855730+00:00"
   },
   {
-    "id": "7984e92e6601d72f",
-    "titulo": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "resumo_original": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "id": "b9dc0d5943c84ce6",
+    "titulo": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "resumo_original": "Is Apple hoping to get into the AI-generated podcast business?",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "data_publicacao": "2026-10-09T21:41:29+00:00",
-    "data_coleta": "2026-10-10T14:59:39.378268+00:00"
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "data_publicacao": "2026-10-10T19:50:00+00:00",
+    "data_coleta": "2026-10-11T15:18:10.855730+00:00"
   },
   {
-    "id": "dbb8d8deb79338f7",
-    "titulo": "One with the world? A new look at brains transformed by psychedelics.",
-    "resumo_original": "Participants meditated inside an MRI tube, with and without psilocybin.",
+    "id": "27206819c56c8aca",
+    "titulo": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+    "resumo_original": "Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic , Godzilla Minus One",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-    "data_publicacao": "2026-10-10T11:15:35+00:00",
-    "data_coleta": "2026-10-10T14:59:39.378268+00:00"
+    "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+    "data_publicacao": "2026-10-11T14:50:24+00:00",
+    "data_coleta": "2026-10-11T15:18:10.855730+00:00"
   },
   {
-    "id": "479bf263659d04fa",
-    "titulo": "Neanderthal wooden tools from Spain found preserved in stone",
-    "resumo_original": "Dissolved rock precipitated around the tools, which then decayed.",
+    "id": "d578180d1dea0925",
+    "titulo": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+    "resumo_original": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
-    "data_publicacao": "2026-10-09T22:34:03+00:00",
-    "data_coleta": "2026-10-10T14:59:39.378268+00:00"
+    "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+    "data_publicacao": "2026-10-09T21:51:12+00:00",
+    "data_coleta": "2026-10-11T15:18:10.855730+00:00"
   },
   {
-    "id": "36cc2f96c79b2aa5",
-    "titulo": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-    "resumo_original": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-    "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-    "data_publicacao": "2026-10-09T22:04:07+00:00",
-    "data_coleta": "2026-10-10T14:59:39.378268+00:00"
+    "id": "a751f71cb60d778c",
+    "titulo": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+    "resumo_original": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the Witch, or, as it […]",
+    "fonte": "The Verge",
+    "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+    "data_publicacao": "2026-10-11T15:15:00+00:00",
+    "data_coleta": "2026-10-11T15:18:10.855730+00:00"
   }
 ]
