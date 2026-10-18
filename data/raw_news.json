@@ -1,74 +1,74 @@
 [
   {
-    "id": "65d6194a8b19b362",
-    "titulo": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-    "resumo_original": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+    "id": "7dd27ee4e856d38c",
+    "titulo": "Meta removes language that raised scraping and AI training concerns",
+    "resumo_original": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-    "data_publicacao": "2026-10-17T02:36:18+00:00",
-    "data_coleta": "2026-10-17T12:39:32.045144+00:00"
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "data_publicacao": "2026-10-17T21:31:32+00:00",
+    "data_coleta": "2026-10-18T12:56:56.955576+00:00"
   },
   {
-    "id": "fdd4c6f578d6ab89",
-    "titulo": "Replit is no longer working with Anthropic, CEO says",
-    "resumo_original": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "id": "86cccf36b9f1be5a",
+    "titulo": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "resumo_original": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "data_publicacao": "2026-10-16T21:22:28+00:00",
-    "data_coleta": "2026-10-17T12:39:32.045144+00:00"
+    "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+    "data_publicacao": "2026-10-17T20:55:52+00:00",
+    "data_coleta": "2026-10-18T12:56:56.955576+00:00"
   },
   {
-    "id": "4287ed896294fcc3",
-    "titulo": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "resumo_original": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+    "id": "fd3979152c2e61bd",
+    "titulo": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "resumo_original": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-    "data_publicacao": "2026-10-16T19:40:00+00:00",
-    "data_coleta": "2026-10-17T12:39:32.045144+00:00"
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "data_publicacao": "2026-10-17T20:21:19+00:00",
+    "data_coleta": "2026-10-18T12:56:56.955576+00:00"
   },
   {
-    "id": "8ffbbf24c13a812d",
-    "titulo": "India becomes the latest country to report rogue AI agent activity",
-    "resumo_original": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "id": "fcf73aabe3e37fa7",
+    "titulo": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "resumo_original": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "data_publicacao": "2026-10-16T17:52:24+00:00",
-    "data_coleta": "2026-10-17T12:39:32.045144+00:00"
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "data_publicacao": "2026-10-17T18:48:08+00:00",
+    "data_coleta": "2026-10-18T12:56:56.955576+00:00"
   },
   {
-    "id": "68b9f741f3df646e",
-    "titulo": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "resumo_original": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+    "id": "273d744b399a6164",
+    "titulo": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "resumo_original": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "data_publicacao": "2026-10-16T16:30:00+00:00",
-    "data_coleta": "2026-10-17T12:39:32.045144+00:00"
+    "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+    "data_publicacao": "2026-10-17T15:30:00+00:00",
+    "data_coleta": "2026-10-18T12:56:56.955576+00:00"
   },
   {
-    "id": "6808fc909befc84a",
-    "titulo": "Science says your boss should talk less in meetings",
-    "resumo_original": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+    "id": "7353a42c67b5a321",
+    "titulo": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+    "resumo_original": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-    "data_publicacao": "2026-10-17T11:15:11+00:00",
-    "data_coleta": "2026-10-17T12:39:32.045144+00:00"
+    "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "data_publicacao": "2026-10-16T20:20:07+00:00",
+    "data_coleta": "2026-10-18T12:56:56.955576+00:00"
   },
   {
-    "id": "ead9ea938e0fe498",
-    "titulo": "Why BioWare's Neverwinter Nights still has thousands of active players",
-    "resumo_original": "The single-player is just OK, but according to the players, that doesn't matter.",
+    "id": "76457f6ede32e47c",
+    "titulo": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+    "resumo_original": "There are still significant hurdles ahead, both technical and legislative.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-    "data_publicacao": "2026-10-17T11:00:21+00:00",
-    "data_coleta": "2026-10-17T12:39:32.045144+00:00"
+    "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+    "data_publicacao": "2026-10-16T19:41:18+00:00",
+    "data_coleta": "2026-10-18T12:56:56.955576+00:00"
   },
   {
-    "id": "16df95b107d54710",
-    "titulo": "OpenAI models hacked a crypto wallet and breached more websites",
-    "resumo_original": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "data_publicacao": "2026-10-16T20:59:01+00:00",
-    "data_coleta": "2026-10-17T12:39:32.045144+00:00"
+    "id": "cc10eba0630c01bf",
+    "titulo": "How overhead projectors took over your classroom",
+    "resumo_original": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere. […]",
+    "fonte": "The Verge",
+    "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+    "data_publicacao": "2026-10-18T12:55:01+00:00",
+    "data_coleta": "2026-10-18T12:56:56.955576+00:00"
   }
 ]
