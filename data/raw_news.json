@@ -1,74 +1,74 @@
 [
   {
-    "id": "f7764367e723a8ef",
-    "titulo": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-    "resumo_original": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+    "id": "76db7ee704f574f0",
+    "titulo": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+    "resumo_original": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-    "data_publicacao": "2026-10-20T13:17:36+00:00",
-    "data_coleta": "2026-10-20T14:03:08.652344+00:00"
+    "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+    "data_publicacao": "2026-10-21T14:03:11+00:00",
+    "data_coleta": "2026-10-21T14:19:02.335139+00:00"
   },
   {
-    "id": "9124fc501335a8a3",
-    "titulo": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-    "resumo_original": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "id": "a61adc6e1acb139d",
+    "titulo": "AI promises productivity, but for managers, it’s mostly a headache for now",
+    "resumo_original": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-    "data_publicacao": "2026-10-20T13:07:24+00:00",
-    "data_coleta": "2026-10-20T14:03:08.652344+00:00"
+    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "data_publicacao": "2026-10-21T14:00:00+00:00",
+    "data_coleta": "2026-10-21T14:19:02.335139+00:00"
   },
   {
-    "id": "5c947a61567ff990",
-    "titulo": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "resumo_original": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "id": "f96aeaefdb93651d",
+    "titulo": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
+    "resumo_original": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-    "data_publicacao": "2026-10-20T13:00:00+00:00",
-    "data_coleta": "2026-10-20T14:03:08.652344+00:00"
+    "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+    "data_publicacao": "2026-10-21T13:30:00+00:00",
+    "data_coleta": "2026-10-21T14:19:02.335139+00:00"
   },
   {
-    "id": "dc34a40ff883651d",
-    "titulo": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-    "resumo_original": "The raise comes as venture dollars pile up on the West Coast.",
+    "id": "cc0b2a0696c1ca51",
+    "titulo": "Mach9 raises $34M after pivoting to AI CAD software",
+    "resumo_original": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-    "data_publicacao": "2026-10-20T13:00:00+00:00",
-    "data_coleta": "2026-10-20T14:03:08.652344+00:00"
+    "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "data_publicacao": "2026-10-21T13:00:00+00:00",
+    "data_coleta": "2026-10-21T14:19:02.335139+00:00"
   },
   {
-    "id": "fce282284b9ed000",
-    "titulo": "Spotify launches paid podcast memberships with perks beyond bonus content",
-    "resumo_original": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
+    "id": "2d2caae98728dfe7",
+    "titulo": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "resumo_original": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
-    "data_publicacao": "2026-10-20T12:00:00+00:00",
-    "data_coleta": "2026-10-20T14:03:08.652344+00:00"
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "data_publicacao": "2026-10-20T23:01:23+00:00",
+    "data_coleta": "2026-10-21T14:19:02.335139+00:00"
   },
   {
-    "id": "509f48468ef3f724",
-    "titulo": "Meta Muse exposes users' personal and business secrets when they share conversations",
-    "resumo_original": "A single query is all that's required to find thousands of conversations listed by title.",
-    "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-    "data_publicacao": "2026-10-20T12:33:13+00:00",
-    "data_coleta": "2026-10-20T14:03:08.652344+00:00"
+    "id": "6a584b9830c2ce15",
+    "titulo": "Blink brings 4K to its low-cost security camera lineup",
+    "resumo_original": "Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property compared to Blink's current Mini 2K, Mini 2K Plus, and Outdoor 2K Plus offerings, with a variety of different specializations to best […]",
+    "fonte": "The Verge",
+    "link": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
+    "data_publicacao": "2026-10-21T14:00:00+00:00",
+    "data_coleta": "2026-10-21T14:19:02.335139+00:00"
   },
   {
-    "id": "4300c8bbe38c5251",
-    "titulo": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-    "resumo_original": "Slate's first showroom sells the promise. Mass production will determine the rest.",
-    "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-    "data_publicacao": "2026-10-20T11:00:16+00:00",
-    "data_coleta": "2026-10-20T14:03:08.652344+00:00"
+    "id": "8eaa1a0c53605384",
+    "titulo": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "resumo_original": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason […]",
+    "fonte": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+    "data_publicacao": "2026-10-21T13:57:43+00:00",
+    "data_coleta": "2026-10-21T14:19:02.335139+00:00"
   },
   {
-    "id": "f6e3170c2d58326a",
-    "titulo": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-    "resumo_original": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-    "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-    "data_publicacao": "2026-10-20T05:59:56+00:00",
-    "data_coleta": "2026-10-20T14:03:08.652344+00:00"
+    "id": "22cfd230ea56c3cd",
+    "titulo": "Now Serato DJ works on your iPhone",
+    "resumo_original": "Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some autofades between songs in a playlist. This is the first time most of the features of its […]",
+    "fonte": "The Verge",
+    "link": "https://www.theverge.com/tech/1015319/serato-dj-for-ios",
+    "data_publicacao": "2026-10-21T13:51:31+00:00",
+    "data_coleta": "2026-10-21T14:19:02.335139+00:00"
   }
 ]
