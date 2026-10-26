@@ -1,74 +1,74 @@
 [
   {
-    "id": "87bb975b7408391e",
-    "titulo": "Starlink seems to be working normally again in Ukraine",
-    "resumo_original": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+    "id": "b67fd02a214f91e2",
+    "titulo": "Anthropic officially files for its public debut",
+    "resumo_original": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-    "data_publicacao": "2026-10-24T20:46:34+00:00",
-    "data_coleta": "2026-10-25T13:31:47.112467+00:00"
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "data_publicacao": "2026-10-26T14:35:22+00:00",
+    "data_coleta": "2026-10-26T15:47:36.813350+00:00"
   },
   {
-    "id": "d3798ec9a0ad0aeb",
-    "titulo": "Will AI expose the rickety infrastructure of the internet?",
-    "resumo_original": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "id": "888531954bbf374e",
+    "titulo": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+    "resumo_original": "The new iPad mini features a thinner and lighter design than its predecessor.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "data_publicacao": "2026-10-24T20:15:33+00:00",
-    "data_coleta": "2026-10-25T13:31:47.112467+00:00"
+    "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+    "data_publicacao": "2026-10-26T14:25:43+00:00",
+    "data_coleta": "2026-10-26T15:47:36.813350+00:00"
   },
   {
-    "id": "43fa73ddaf377eb5",
-    "titulo": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "resumo_original": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "id": "78b88479bf6c295c",
+    "titulo": "Matiks raises $10M to expand its math and puzzle gaming platform",
+    "resumo_original": "Matiks has introduced a new platform for users to create games using AI.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "data_publicacao": "2026-10-24T19:00:00+00:00",
-    "data_coleta": "2026-10-25T13:31:47.112467+00:00"
+    "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+    "data_publicacao": "2026-10-26T14:08:04+00:00",
+    "data_coleta": "2026-10-26T15:47:36.813350+00:00"
   },
   {
-    "id": "93f8cf567fdc5cc8",
-    "titulo": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "resumo_original": "Instacart might sell itself to a larger competitor.",
+    "id": "ca3e8154a02119a5",
+    "titulo": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+    "resumo_original": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-    "data_publicacao": "2026-10-24T16:30:00+00:00",
-    "data_coleta": "2026-10-25T13:31:47.112467+00:00"
+    "link": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+    "data_publicacao": "2026-10-26T12:58:40+00:00",
+    "data_coleta": "2026-10-26T15:47:36.813350+00:00"
   },
   {
-    "id": "61ceba6cfe498159",
-    "titulo": "Block’s new voice model sounds eerily human",
-    "resumo_original": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "id": "c12166328f392eb9",
+    "titulo": "The best apps for tracking your reading and discovering new books",
+    "resumo_original": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "data_publicacao": "2026-10-24T16:00:00+00:00",
-    "data_coleta": "2026-10-25T13:31:47.112467+00:00"
+    "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+    "data_publicacao": "2026-10-26T01:10:00+00:00",
+    "data_coleta": "2026-10-26T15:47:36.813350+00:00"
   },
   {
-    "id": "7beb0b6ead3f11cd",
-    "titulo": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-    "resumo_original": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
+    "id": "9aa642ca1dc13090",
+    "titulo": "F1 in Texas: The American race that fans love to attend",
+    "resumo_original": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-    "data_publicacao": "2026-10-23T20:28:43+00:00",
-    "data_coleta": "2026-10-25T13:31:47.112467+00:00"
+    "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+    "data_publicacao": "2026-10-26T14:48:24+00:00",
+    "data_coleta": "2026-10-26T15:47:36.813350+00:00"
   },
   {
-    "id": "7be3008f9053e2be",
-    "titulo": "Updated Google privacy policy says your Gmail might be used for advertising",
-    "resumo_original": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+    "id": "d8e91abdba8c9c3f",
+    "titulo": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+    "resumo_original": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-    "data_publicacao": "2026-10-23T20:19:55+00:00",
-    "data_coleta": "2026-10-25T13:31:47.112467+00:00"
+    "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+    "data_publicacao": "2026-10-26T14:30:27+00:00",
+    "data_coleta": "2026-10-26T15:47:36.813350+00:00"
   },
   {
-    "id": "b411fbb2487aa2da",
-    "titulo": "r/opensource just banned AI, non-English speakers and more",
-    "resumo_original": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
-    "fonte": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "data_publicacao": "2026-10-25T13:25:32+00:00",
-    "data_coleta": "2026-10-25T13:31:47.112467+00:00"
+    "id": "ee894ba0e586d24b",
+    "titulo": "From impulse purchase to pocket studio: The M-Vave FM-1",
+    "resumo_original": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
+    "fonte": "Ars Technica",
+    "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+    "data_publicacao": "2026-10-26T11:00:15+00:00",
+    "data_coleta": "2026-10-26T15:47:36.813350+00:00"
   }
 ]
