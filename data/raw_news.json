@@ -1,74 +1,74 @@
 [
   {
-    "id": "ebef47c413e7a9e7",
-    "titulo": "Axiom Math wants to keep AI slop out of mathematics",
-    "resumo_original": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "id": "9bf74dfc2091c0de",
+    "titulo": "Fox completes its $22B acquisition of Roku",
+    "resumo_original": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "data_publicacao": "2026-11-05T16:16:45+00:00",
-    "data_coleta": "2026-11-05T17:03:57.369141+00:00"
+    "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+    "data_publicacao": "2026-11-06T16:05:36+00:00",
+    "data_coleta": "2026-11-06T16:33:44.093416+00:00"
   },
   {
-    "id": "411331a1e9eef5ce",
-    "titulo": "Bluesky hit peak usage for the year on election night",
-    "resumo_original": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+    "id": "291e476bb8671d5a",
+    "titulo": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "resumo_original": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
-    "data_publicacao": "2026-11-05T15:44:58+00:00",
-    "data_coleta": "2026-11-05T17:03:57.369141+00:00"
+    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "data_publicacao": "2026-11-06T15:54:47+00:00",
+    "data_coleta": "2026-11-06T16:33:44.093416+00:00"
   },
   {
-    "id": "a838070352f315f5",
-    "titulo": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-    "resumo_original": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+    "id": "d40f9466337f4802",
+    "titulo": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "resumo_original": "Amazon said that the feature will roll out to millions of users in coming weeks.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-    "data_publicacao": "2026-11-05T15:40:34+00:00",
-    "data_coleta": "2026-11-05T17:03:57.369141+00:00"
+    "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "data_publicacao": "2026-11-06T14:10:00+00:00",
+    "data_coleta": "2026-11-06T16:33:44.093416+00:00"
   },
   {
-    "id": "498a6689034622ac",
-    "titulo": "TikTok quietly launches a stand-alone TikTok Shop app",
-    "resumo_original": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+    "id": "76d77f901fa07104",
+    "titulo": "Underdog shows off a 32MB speech model in new demo",
+    "resumo_original": "Despite its small size, Underdog's new model can generate both speech and music.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-    "data_publicacao": "2026-11-05T15:33:58+00:00",
-    "data_coleta": "2026-11-05T17:03:57.369141+00:00"
+    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "data_publicacao": "2026-11-06T13:02:16+00:00",
+    "data_coleta": "2026-11-06T16:33:44.093416+00:00"
   },
   {
-    "id": "9c6e67cc65141fc0",
-    "titulo": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "resumo_original": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+    "id": "a3dde5726f36f95f",
+    "titulo": "Physicl raises $10M to make the digital world real enough for robots",
+    "resumo_original": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "data_publicacao": "2026-11-05T15:19:05+00:00",
-    "data_coleta": "2026-11-05T17:03:57.369141+00:00"
+    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "data_publicacao": "2026-11-06T13:00:00+00:00",
+    "data_coleta": "2026-11-06T16:33:44.093416+00:00"
   },
   {
-    "id": "3f8ff5b7d132d1e2",
-    "titulo": "Statehouse wins give Democrats new power to push clean energy",
-    "resumo_original": "Democrats erased the GOP’s trifecta edge and gained new power over energy policy.",
+    "id": "9e40c95d4da9e2b4",
+    "titulo": "Could potential AI clones of GTA VI force a quicker official port?",
+    "resumo_original": "A former Rockstar tech director thinks the developer is facing new time pressures.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
-    "data_publicacao": "2026-11-05T15:59:51+00:00",
-    "data_coleta": "2026-11-05T17:03:57.369141+00:00"
+    "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "data_publicacao": "2026-11-06T16:19:12+00:00",
+    "data_coleta": "2026-11-06T16:33:44.093416+00:00"
   },
   {
-    "id": "2fd237ae4bf33b8f",
-    "titulo": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-    "resumo_original": "It has all the bells and whistles (and cameras).",
+    "id": "e52dda216870c0ab",
+    "titulo": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
+    "resumo_original": "It has the best laptop screen we've used, but there may be reasons to wait.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
-    "data_publicacao": "2026-11-05T13:00:56+00:00",
-    "data_coleta": "2026-11-05T17:03:57.369141+00:00"
+    "link": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
+    "data_publicacao": "2026-11-06T15:28:07+00:00",
+    "data_coleta": "2026-11-06T16:33:44.093416+00:00"
   },
   {
-    "id": "9db55803402ec47c",
-    "titulo": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-    "resumo_original": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+    "id": "400f973a2207ac85",
+    "titulo": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+    "resumo_original": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-    "data_publicacao": "2026-11-05T12:00:41+00:00",
-    "data_coleta": "2026-11-05T17:03:57.369141+00:00"
+    "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+    "data_publicacao": "2026-11-06T14:13:32+00:00",
+    "data_coleta": "2026-11-06T16:33:44.093416+00:00"
   }
 ]
