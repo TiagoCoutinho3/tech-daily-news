@@ -1,74 +1,74 @@
 [
   {
-    "id": "58580c03fbdd2552",
-    "titulo": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "resumo_original": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "id": "56771b101993740f",
+    "titulo": "Apple TV makes sign language interpretation a built-in accessibility feature",
+    "resumo_original": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "data_publicacao": "2026-11-09T19:24:51+00:00",
-    "data_coleta": "2026-11-09T19:27:08.380781+00:00"
+    "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+    "data_publicacao": "2026-11-10T16:00:00+00:00",
+    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
   },
   {
-    "id": "63271ce2eb02cf13",
-    "titulo": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-    "resumo_original": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+    "id": "4ea7969a421c5239",
+    "titulo": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "resumo_original": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-    "data_publicacao": "2026-11-09T19:21:46+00:00",
-    "data_coleta": "2026-11-09T19:27:08.380781+00:00"
+    "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "data_publicacao": "2026-11-10T15:54:08+00:00",
+    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
   },
   {
-    "id": "9bbeae0d9077b0fb",
-    "titulo": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-    "resumo_original": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+    "id": "a3eeb77a80fa3a88",
+    "titulo": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+    "resumo_original": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-    "data_publicacao": "2026-11-09T19:19:24+00:00",
-    "data_coleta": "2026-11-09T19:27:08.380781+00:00"
+    "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+    "data_publicacao": "2026-11-10T15:45:27+00:00",
+    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
   },
   {
-    "id": "e5d7409756abf44b",
-    "titulo": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "resumo_original": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+    "id": "679acb5039d281a5",
+    "titulo": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "resumo_original": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "data_publicacao": "2026-11-09T18:09:52+00:00",
-    "data_coleta": "2026-11-09T19:27:08.380781+00:00"
+    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "data_publicacao": "2026-11-10T15:29:30+00:00",
+    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
   },
   {
-    "id": "730323ba6c06bee9",
-    "titulo": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "resumo_original": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "id": "f407fadf37dff876",
+    "titulo": "Reddit is turning user conversations into AI-powered product reviews",
+    "resumo_original": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "data_publicacao": "2026-11-09T18:00:00+00:00",
-    "data_coleta": "2026-11-09T19:27:08.380781+00:00"
+    "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+    "data_publicacao": "2026-11-10T15:00:00+00:00",
+    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
   },
   {
-    "id": "0305bd1e7feabf60",
-    "titulo": "Pentagon mulls placing fleet of military satellites around the Moon",
-    "resumo_original": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+    "id": "7423d129d072e526",
+    "titulo": "High oil prices have led to a dip in global carbon emissions",
+    "resumo_original": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-    "data_publicacao": "2026-11-09T19:08:37+00:00",
-    "data_coleta": "2026-11-09T19:27:08.380781+00:00"
+    "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+    "data_publicacao": "2026-11-10T16:29:27+00:00",
+    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
   },
   {
-    "id": "84f3b5d3194b1b5f",
-    "titulo": "Claude Code is accidentally exposing secrets all over GitHub",
-    "resumo_original": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+    "id": "49754c4b38a2c70d",
+    "titulo": "One space station company sues another for copying its work",
+    "resumo_original": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "data_publicacao": "2026-11-09T17:24:26+00:00",
-    "data_coleta": "2026-11-09T19:27:08.380781+00:00"
+    "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+    "data_publicacao": "2026-11-10T16:17:51+00:00",
+    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
   },
   {
-    "id": "bc64bea0832685bc",
-    "titulo": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-    "resumo_original": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+    "id": "76165dd7fb3fabec",
+    "titulo": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+    "resumo_original": "The new model is up to twice as successful at some tasks.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-    "data_publicacao": "2026-11-09T15:39:21+00:00",
-    "data_coleta": "2026-11-09T19:27:08.380781+00:00"
+    "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+    "data_publicacao": "2026-11-10T15:00:39+00:00",
+    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
   }
 ]
