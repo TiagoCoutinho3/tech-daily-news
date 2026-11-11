@@ -1,74 +1,74 @@
 [
   {
-    "id": "56771b101993740f",
-    "titulo": "Apple TV makes sign language interpretation a built-in accessibility feature",
-    "resumo_original": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+    "id": "639dd1bd8a90352c",
+    "titulo": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "resumo_original": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-    "data_publicacao": "2026-11-10T16:00:00+00:00",
-    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
+    "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "data_publicacao": "2026-11-11T16:16:07+00:00",
+    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
   },
   {
-    "id": "4ea7969a421c5239",
-    "titulo": "Google broadens its AI hardware portfolio with two new specialized chips",
-    "resumo_original": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "id": "f31248890af40385",
+    "titulo": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "resumo_original": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-    "data_publicacao": "2026-11-10T15:54:08+00:00",
-    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
+    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "data_publicacao": "2026-11-11T16:14:44+00:00",
+    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
   },
   {
-    "id": "a3eeb77a80fa3a88",
-    "titulo": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-    "resumo_original": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+    "id": "11ae2fd9c5f20374",
+    "titulo": "Siri co-founder backs Helix for its voice ID tech",
+    "resumo_original": "Helix said that its voice ID tech can run on an iPhone 13",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
-    "data_publicacao": "2026-11-10T15:45:27+00:00",
-    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
+    "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+    "data_publicacao": "2026-11-11T15:02:47+00:00",
+    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
   },
   {
-    "id": "679acb5039d281a5",
-    "titulo": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "resumo_original": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "id": "d5ce8d4f2e7d567c",
+    "titulo": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "resumo_original": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-    "data_publicacao": "2026-11-10T15:29:30+00:00",
-    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
+    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "data_publicacao": "2026-11-11T15:00:00+00:00",
+    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
   },
   {
-    "id": "f407fadf37dff876",
-    "titulo": "Reddit is turning user conversations into AI-powered product reviews",
-    "resumo_original": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+    "id": "274edf310d65fc26",
+    "titulo": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "resumo_original": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-    "data_publicacao": "2026-11-10T15:00:00+00:00",
-    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
+    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "data_publicacao": "2026-11-11T14:00:00+00:00",
+    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
   },
   {
-    "id": "7423d129d072e526",
-    "titulo": "High oil prices have led to a dip in global carbon emissions",
-    "resumo_original": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
+    "id": "3419fb86b36d8624",
+    "titulo": "IBM to offer access to a dual-processor quantum system in 2027",
+    "resumo_original": "The company plans on linking two 520-qubit chips before next year is over.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
-    "data_publicacao": "2026-11-10T16:29:27+00:00",
-    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
+    "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+    "data_publicacao": "2026-11-11T16:33:08+00:00",
+    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
   },
   {
-    "id": "49754c4b38a2c70d",
-    "titulo": "One space station company sues another for copying its work",
-    "resumo_original": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+    "id": "9c116ce0c1fff820",
+    "titulo": "Trump wanted little Kei trucks for America, Toyota makes it happen",
+    "resumo_original": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
-    "data_publicacao": "2026-11-10T16:17:51+00:00",
-    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
+    "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+    "data_publicacao": "2026-11-11T15:25:44+00:00",
+    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
   },
   {
-    "id": "76165dd7fb3fabec",
-    "titulo": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-    "resumo_original": "The new model is up to twice as successful at some tasks.",
+    "id": "b5b225f8da047fd6",
+    "titulo": "Google DeepMind just mathematically verified key parts of Signal",
+    "resumo_original": "The four-week project hints that AI could make formal verification far more practical.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-    "data_publicacao": "2026-11-10T15:00:39+00:00",
-    "data_coleta": "2026-11-10T16:45:07.726580+00:00"
+    "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+    "data_publicacao": "2026-11-11T14:08:57+00:00",
+    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
   }
 ]
