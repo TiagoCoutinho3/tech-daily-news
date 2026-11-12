@@ -1,74 +1,74 @@
 [
   {
-    "id": "639dd1bd8a90352c",
-    "titulo": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-    "resumo_original": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+    "id": "0544f18fda8e3232",
+    "titulo": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "resumo_original": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-    "data_publicacao": "2026-11-11T16:16:07+00:00",
-    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
+    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "data_publicacao": "2026-11-12T17:17:58+00:00",
+    "data_coleta": "2026-11-12T17:18:41.275209+00:00"
   },
   {
-    "id": "f31248890af40385",
-    "titulo": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-    "resumo_original": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "id": "0039716ebb4ac156",
+    "titulo": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "resumo_original": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-    "data_publicacao": "2026-11-11T16:14:44+00:00",
-    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
+    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "data_publicacao": "2026-11-12T17:00:52+00:00",
+    "data_coleta": "2026-11-12T17:18:41.275209+00:00"
   },
   {
-    "id": "11ae2fd9c5f20374",
-    "titulo": "Siri co-founder backs Helix for its voice ID tech",
-    "resumo_original": "Helix said that its voice ID tech can run on an iPhone 13",
+    "id": "62853baff9e5dea3",
+    "titulo": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "resumo_original": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-    "data_publicacao": "2026-11-11T15:02:47+00:00",
-    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
+    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "data_publicacao": "2026-11-12T17:00:00+00:00",
+    "data_coleta": "2026-11-12T17:18:41.275209+00:00"
   },
   {
-    "id": "d5ce8d4f2e7d567c",
-    "titulo": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-    "resumo_original": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+    "id": "548fe94a79cba56a",
+    "titulo": "Jensen Huang agrees to testify before Congress",
+    "resumo_original": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-    "data_publicacao": "2026-11-11T15:00:00+00:00",
-    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "data_publicacao": "2026-11-12T16:36:37+00:00",
+    "data_coleta": "2026-11-12T17:18:41.275209+00:00"
   },
   {
-    "id": "274edf310d65fc26",
-    "titulo": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-    "resumo_original": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+    "id": "c32c9bb4ff06b22c",
+    "titulo": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "resumo_original": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-    "data_publicacao": "2026-11-11T14:00:00+00:00",
-    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
+    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "data_publicacao": "2026-11-12T16:32:33+00:00",
+    "data_coleta": "2026-11-12T17:18:41.275209+00:00"
   },
   {
-    "id": "3419fb86b36d8624",
-    "titulo": "IBM to offer access to a dual-processor quantum system in 2027",
-    "resumo_original": "The company plans on linking two 520-qubit chips before next year is over.",
+    "id": "937d80c2161fff21",
+    "titulo": "The amazing disappearing exoplanet",
+    "resumo_original": "An exoplanet seems to stopped transiting in front of its host star.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
-    "data_publicacao": "2026-11-11T16:33:08+00:00",
-    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
+    "link": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+    "data_publicacao": "2026-11-12T17:18:10+00:00",
+    "data_coleta": "2026-11-12T17:18:41.275209+00:00"
   },
   {
-    "id": "9c116ce0c1fff820",
-    "titulo": "Trump wanted little Kei trucks for America, Toyota makes it happen",
-    "resumo_original": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
+    "id": "f890f008ac13960a",
+    "titulo": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+    "resumo_original": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
-    "data_publicacao": "2026-11-11T15:25:44+00:00",
-    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
+    "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+    "data_publicacao": "2026-11-12T14:50:17+00:00",
+    "data_coleta": "2026-11-12T17:18:41.275209+00:00"
   },
   {
-    "id": "b5b225f8da047fd6",
-    "titulo": "Google DeepMind just mathematically verified key parts of Signal",
-    "resumo_original": "The four-week project hints that AI could make formal verification far more practical.",
+    "id": "0ed1017dcace7dac",
+    "titulo": "Nvidia CEO Jensen Huang has resigned",
+    "resumo_original": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-    "data_publicacao": "2026-11-11T14:08:57+00:00",
-    "data_coleta": "2026-11-11T16:51:03.121039+00:00"
+    "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+    "data_publicacao": "2026-11-12T14:05:17+00:00",
+    "data_coleta": "2026-11-12T17:18:41.275209+00:00"
   }
 ]
