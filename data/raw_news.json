@@ -1,74 +1,74 @@
 [
   {
-    "id": "b68502d162ee9e06",
-    "titulo": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-    "resumo_original": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "id": "9ed88987e3d50e1e",
+    "titulo": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "resumo_original": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-    "data_publicacao": "2026-11-24T18:30:42+00:00",
-    "data_coleta": "2026-11-24T19:53:21.002011+00:00"
+    "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+    "data_publicacao": "2026-11-25T18:49:52+00:00",
+    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
   },
   {
-    "id": "a15f266d5fa6e5a5",
-    "titulo": "UK warns AI-driven cyberattacks are exposing years of weak security",
-    "resumo_original": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "id": "8b23f29d590b586f",
+    "titulo": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "resumo_original": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-    "data_publicacao": "2026-11-24T18:02:59+00:00",
-    "data_coleta": "2026-11-24T19:53:21.002011+00:00"
+    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "data_publicacao": "2026-11-25T18:11:46+00:00",
+    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
   },
   {
-    "id": "a547ac10f3b5288e",
-    "titulo": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-    "resumo_original": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+    "id": "1b214afa5a2f08b9",
+    "titulo": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+    "resumo_original": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-    "data_publicacao": "2026-11-24T17:44:34+00:00",
-    "data_coleta": "2026-11-24T19:53:21.002011+00:00"
+    "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+    "data_publicacao": "2026-11-25T17:36:51+00:00",
+    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
   },
   {
-    "id": "163ed0e044138ce6",
-    "titulo": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-    "resumo_original": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+    "id": "5b2e3451b1a570f5",
+    "titulo": "State AGs fight Character AI’s plan to auction off users’ private chats",
+    "resumo_original": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-    "data_publicacao": "2026-11-24T17:29:09+00:00",
-    "data_coleta": "2026-11-24T19:53:21.002011+00:00"
+    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "data_publicacao": "2026-11-25T17:35:58+00:00",
+    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
   },
   {
-    "id": "08a6094b9f24b3f9",
-    "titulo": "Meta brings its Muse AI assistant directly into Instagram DMs",
-    "resumo_original": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+    "id": "42cd4506e23baf08",
+    "titulo": "X’s latest update for creators focuses on vertical video",
+    "resumo_original": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-    "data_publicacao": "2026-11-24T17:00:00+00:00",
-    "data_coleta": "2026-11-24T19:53:21.002011+00:00"
+    "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+    "data_publicacao": "2026-11-25T17:28:29+00:00",
+    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
   },
   {
-    "id": "949a815f425dc11c",
-    "titulo": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-    "resumo_original": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+    "id": "917702583c56d101",
+    "titulo": "Backblaze explains why it's sharing customer information with advertisers",
+    "resumo_original": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-    "data_publicacao": "2026-11-24T18:47:57+00:00",
-    "data_coleta": "2026-11-24T19:53:21.002011+00:00"
+    "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+    "data_publicacao": "2026-11-25T18:38:29+00:00",
+    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
   },
   {
-    "id": "48f2a5e1206d5c06",
-    "titulo": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-    "resumo_original": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+    "id": "5e174c1a77312230",
+    "titulo": "The FCC has authorized SpaceX to deploy 1 million satellites",
+    "resumo_original": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-    "data_publicacao": "2026-11-24T18:30:36+00:00",
-    "data_coleta": "2026-11-24T19:53:21.002011+00:00"
+    "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+    "data_publicacao": "2026-11-25T18:22:38+00:00",
+    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
   },
   {
-    "id": "131a5534762c7eb5",
-    "titulo": "How brewers can protect beers from smoke-tainted hops",
-    "resumo_original": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+    "id": "813e247692e2053f",
+    "titulo": "Ladybird browser's first downloadable alpha is surprisingly capable",
+    "resumo_original": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-    "data_publicacao": "2026-11-24T18:18:37+00:00",
-    "data_coleta": "2026-11-24T19:53:21.002011+00:00"
+    "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+    "data_publicacao": "2026-11-25T17:33:30+00:00",
+    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
   }
 ]
