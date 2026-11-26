@@ -1,74 +1,74 @@
 [
   {
-    "id": "9ed88987e3d50e1e",
-    "titulo": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-    "resumo_original": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+    "id": "805fcb4a332b0be8",
+    "titulo": "A month with the iPhone Duo has changed how I use my phone",
+    "resumo_original": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-    "data_publicacao": "2026-11-25T18:49:52+00:00",
-    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
+    "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+    "data_publicacao": "2026-11-26T17:00:00+00:00",
+    "data_coleta": "2026-11-26T18:47:40.618116+00:00"
   },
   {
-    "id": "8b23f29d590b586f",
-    "titulo": "Want to buy your kid an AI toy this Christmas? Not in New York",
-    "resumo_original": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+    "id": "b81da0547893b262",
+    "titulo": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "resumo_original": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-    "data_publicacao": "2026-11-25T18:11:46+00:00",
-    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "data_publicacao": "2026-11-26T16:00:00+00:00",
+    "data_coleta": "2026-11-26T18:47:40.618116+00:00"
   },
   {
-    "id": "1b214afa5a2f08b9",
-    "titulo": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-    "resumo_original": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+    "id": "d7b28b808e94d828",
+    "titulo": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "resumo_original": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-    "data_publicacao": "2026-11-25T17:36:51+00:00",
-    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "data_publicacao": "2026-11-25T22:44:32+00:00",
+    "data_coleta": "2026-11-26T18:47:40.618116+00:00"
   },
   {
-    "id": "5b2e3451b1a570f5",
-    "titulo": "State AGs fight Character AI’s plan to auction off users’ private chats",
-    "resumo_original": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+    "id": "cecacbdc275020c7",
+    "titulo": "FCC approves SpaceX plan to put AI data centers in space",
+    "resumo_original": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-    "data_publicacao": "2026-11-25T17:35:58+00:00",
-    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
+    "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+    "data_publicacao": "2026-11-25T20:56:44+00:00",
+    "data_coleta": "2026-11-26T18:47:40.618116+00:00"
   },
   {
-    "id": "42cd4506e23baf08",
-    "titulo": "X’s latest update for creators focuses on vertical video",
-    "resumo_original": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+    "id": "fb19c642f1b75584",
+    "titulo": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "resumo_original": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
     "fonte": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-    "data_publicacao": "2026-11-25T17:28:29+00:00",
-    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "data_publicacao": "2026-11-25T20:03:27+00:00",
+    "data_coleta": "2026-11-26T18:47:40.618116+00:00"
   },
   {
-    "id": "917702583c56d101",
-    "titulo": "Backblaze explains why it's sharing customer information with advertisers",
-    "resumo_original": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+    "id": "cd2ffd2be57f1654",
+    "titulo": "Ford unveils the GT41 as it hopes to win Le Mans again",
+    "resumo_original": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
-    "data_publicacao": "2026-11-25T18:38:29+00:00",
-    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
+    "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+    "data_publicacao": "2026-11-26T18:00:29+00:00",
+    "data_coleta": "2026-11-26T18:47:40.618116+00:00"
   },
   {
-    "id": "5e174c1a77312230",
-    "titulo": "The FCC has authorized SpaceX to deploy 1 million satellites",
-    "resumo_original": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+    "id": "193535c3d6a20312",
+    "titulo": "Draining peatlands is responsible for a few percent of our global warming",
+    "resumo_original": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
-    "data_publicacao": "2026-11-25T18:22:38+00:00",
-    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
+    "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+    "data_publicacao": "2026-11-26T12:15:42+00:00",
+    "data_coleta": "2026-11-26T18:47:40.618116+00:00"
   },
   {
-    "id": "813e247692e2053f",
-    "titulo": "Ladybird browser's first downloadable alpha is surprisingly capable",
-    "resumo_original": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+    "id": "1fb96d1f02355e3a",
+    "titulo": "From minimalist to maximalist: Ars staffers show off their home offices",
+    "resumo_original": "Our home offices range from tasteful to \"please explain yourself.\"",
     "fonte": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-    "data_publicacao": "2026-11-25T17:33:30+00:00",
-    "data_coleta": "2026-11-25T18:56:58.596734+00:00"
+    "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+    "data_publicacao": "2026-11-26T12:00:14+00:00",
+    "data_coleta": "2026-11-26T18:47:40.618116+00:00"
   }
 ]
